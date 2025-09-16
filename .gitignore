@@ -1,0 +1,4 @@
+node_modules/
+dist/
+agent/.venv/
+server/data.json
